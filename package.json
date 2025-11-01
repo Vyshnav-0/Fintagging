@@ -1,0 +1,14 @@
+{
+  "name": "fintagging",
+  "version": "1.0.0",
+  "description": "AI-Powered Financial Information Extraction and Tagging System",
+  "scripts": {
+    "start": "concurrently \"cd backend && npm start\" \"cd frontend && npm start\"",
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm start\""
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "concurrently": "^8.0.1"
+  }
+}
