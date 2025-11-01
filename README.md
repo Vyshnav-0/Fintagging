@@ -168,14 +168,6 @@ The platform supports mapping to 50+ US-GAAP concepts including:
 
 This project is proprietary software. All rights reserved.
 
-## 👥 Contributors
-
-- [Your Name]
-
-## 📞 Support
-
-For support, email [your-email@example.com] or open an issue in the repository.
-
 ---
 
 Built with ❤️ using AI technology
